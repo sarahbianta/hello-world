@@ -1,2 +1,3 @@
 # hello-world
 not your average repository
+Hi I'm Sarah Diamond and I'm from California. Let me tell you why are these the first two things I told you about myself - of all the things I could have started with. The fact that my name is Sarah Diamond is important because it is my label and you now know what to call me. The fact that I am from California has only become more relevant as I have lived in more states and countries. Growing up in Northern California shaped my identity and many of my likes, dislikes, values, and morals stem from things I learned and experienced while living in California.
